@@ -1,3 +1,3 @@
-module modulo
+module mimodulo
 
 go 1.19
